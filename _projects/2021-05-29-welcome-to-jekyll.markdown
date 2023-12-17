@@ -173,6 +173,7 @@ To enhance the security of our cloud service, particularly as the integration of
                     <li>Challenges with compatibility in legacy systems</li>
                </ul>
             </td>
+        </tr>
 </table>
  
  
@@ -207,110 +208,110 @@ To enhance the security of our cloud service, particularly as the integration of
 
 
 
-   <table>
-        <tr>
-            <th>#</th>
-            <th>Component</th>
-            <th>Feature</th>
-            <th>Priority</th>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Visual Appearance</td>
-            <td>Design of Overview Page to Identify Account Security Level</td>
-            <td>P1</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Backend</td>
-            <td>Backend Development for "Approve Signin" Service</td>
-            <td>P1</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>Mobile App Development</td>
-            <td>Mobile App for Push Notification (Approve Signin)</td>
-            <td>P1</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>Visual Appearance</td>
-            <td>User Interface for "Approve Signin" Feature Setup</td>
-            <td>P1</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>Backend</td>
-            <td>Update and Secure Legacy Portals with Advanced 2FA</td>
-            <td>P1</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>Backend/Frontend</td>
-            <td>Backup Method Implementation</td>
-            <td>P1</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>Visual Appearance</td>
-            <td>User Interface for Security Key Setup</td>
-            <td>P2</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>Backend</td>
-            <td>Integration of Security Key as a Login Option</td>
-            <td>P2</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>Backend/Frontend</td>
-            <td>Abnormal Activity Notification: Login IP History Tracking and Display</td>
-            <td>P2</td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td>Backend</td>
-            <td>Integration with App Push Notification Service</td>
-            <td>P2</td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td>Backend</td>
-            <td>Email Notification System</td>
-            <td>P2</td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td>A/B Test</td>
-            <td>Testing "Approve Signin" Feature and OTP Setup Complete Rate</td>
-            <td>P3</td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>A/B Test</td>
-            <td>Testing User-Friendliness and Incentive of Overview Security Section</td>
-            <td>P3</td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td>Internal Controls</td>
-            <td>Monitoring and Feedback Tools</td>
-            <td>P3</td>
-        </tr>
-        <tr>
-            <td>15</td>
-            <td>Backend/Frontend</td>
-            <td>Privacy Data Deletion Features</td>
-            <td>P3</td>
-        </tr>
-        <tr>
-            <td>16</td>
-            <td>Backend</td>
-            <td>SMS Notification Integration</td>
-            <td>P3</td>
-        </tr>
-   </table>
+<table>
+     <tr>
+         <th>#</th>
+         <th>Component</th>
+         <th>Feature</th>
+         <th>Priority</th>
+     </tr>
+     <tr>
+         <td>1</td>
+         <td>Visual Appearance</td>
+         <td>Design of Overview Page to Identify Account Security Level</td>
+         <td>P1</td>
+     </tr>
+     <tr>
+         <td>2</td>
+         <td>Backend</td>
+         <td>Backend Development for "Approve Signin" Service</td>
+         <td>P1</td>
+     </tr>
+     <tr>
+         <td>3</td>
+         <td>Mobile App Development</td>
+         <td>Mobile App for Push Notification (Approve Signin)</td>
+         <td>P1</td>
+     </tr>
+     <tr>
+         <td>4</td>
+         <td>Visual Appearance</td>
+         <td>User Interface for "Approve Signin" Feature Setup</td>
+         <td>P1</td>
+     </tr>
+     <tr>
+         <td>5</td>
+         <td>Backend</td>
+         <td>Update and Secure Legacy Portals with Advanced 2FA</td>
+         <td>P1</td>
+     </tr>
+     <tr>
+         <td>6</td>
+         <td>Backend/Frontend</td>
+         <td>Backup Method Implementation</td>
+         <td>P1</td>
+     </tr>
+     <tr>
+         <td>7</td>
+         <td>Visual Appearance</td>
+         <td>User Interface for Security Key Setup</td>
+         <td>P2</td>
+     </tr>
+     <tr>
+         <td>8</td>
+         <td>Backend</td>
+         <td>Integration of Security Key as a Login Option</td>
+         <td>P2</td>
+     </tr>
+     <tr>
+         <td>9</td>
+         <td>Backend/Frontend</td>
+         <td>Abnormal Activity Notification: Login IP History Tracking and Display</td>
+         <td>P2</td>
+     </tr>
+     <tr>
+         <td>10</td>
+         <td>Backend</td>
+         <td>Integration with App Push Notification Service</td>
+         <td>P2</td>
+     </tr>
+     <tr>
+         <td>11</td>
+         <td>Backend</td>
+         <td>Email Notification System</td>
+         <td>P2</td>
+     </tr>
+     <tr>
+         <td>12</td>
+         <td>A/B Test</td>
+         <td>Testing "Approve Signin" Feature and OTP Setup Complete Rate</td>
+         <td>P3</td>
+     </tr>
+     <tr>
+         <td>13</td>
+         <td>A/B Test</td>
+         <td>Testing User-Friendliness and Incentive of Overview Security Section</td>
+         <td>P3</td>
+     </tr>
+     <tr>
+         <td>14</td>
+         <td>Internal Controls</td>
+         <td>Monitoring and Feedback Tools</td>
+         <td>P3</td>
+     </tr>
+     <tr>
+         <td>15</td>
+         <td>Backend/Frontend</td>
+         <td>Privacy Data Deletion Features</td>
+         <td>P3</td>
+     </tr>
+     <tr>
+         <td>16</td>
+         <td>Backend</td>
+         <td>SMS Notification Integration</td>
+         <td>P3</td>
+     </tr>
+</table>
 
 
 
