@@ -1,10 +1,10 @@
 ---
 name: Backup & SaaS Product
 tools: [Storage, Backup, SaaS]
-image: ../assets/image/SRM1.3-1.jpeg
+image: ../assets/image/hb_disaster_c2.jpeg
 description: The design of Multi-Factor Authentication (MFA) and a series of product features was implemented to enhance the security of our cloud service, Synology Account, which has 5 million users. The project involved collaboration with 6 developers over a period of more than 6 months.
 ---
- ![image](../assets/image/SRM1.3-2.jpeg)   
+ ![image](../assets/image/hyperbackup_baremetal.jpeg)   
 
 
 <br>

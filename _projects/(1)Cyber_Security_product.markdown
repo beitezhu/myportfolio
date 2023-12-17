@@ -9,15 +9,31 @@ description: The design of Multi-Factor Authentication (MFA) and a series of pro
 
 <br>
 
+# **Synology Account**
+##### Multi-Factor Authentication product design
+
+> - Duration: Jan 2020 - Jun. 2021
+> - Role: Product Manager
+> - Team members: 2 UX designers,1 UI designers, 5 SDEs
+> - Skills: Product Strategy, Project Management, Market Research
+
+![image](../assets/image/SA_overview.jpeg)  
+
+<br>
+
+
+
 ### **1. Overview and Objectives**
 ##### **Overview:**
 [Synology Account](https://www.synology.com/en-global/synology-account), a critical SaaS service with over 5 million users, serves as the gateway to all Synology cloud services, including QuickConnect, Active Insight, and C2. The security of Synology Account is paramount, impacting both users and the company. It also facilitates user engagement in Synology Events and community participation.
-<br>In 2020, a brute force attack caused data loss and incurred about $100,000 in damages, affecting around 50 NAS users. Although the impact was limited to less than 0.1% of users, it underscored the need for enhanced product security.
+
+<br> In 2020, a brute force attack caused data loss and incurred about $100,000 in damages, affecting around 50 NAS users. Although the impact was limited to less than 0.1% of users, it underscored the need for enhanced product security.
 
 ##### **Objective:**
 
 To enhance the security of our cloud service, particularly as the integration of products with the Synology Account escalates.
 
+<br>
 
 ### **2. Problem Statement**
 
@@ -28,6 +44,7 @@ To enhance the security of our cloud service, particularly as the integration of
 - Certain legacy portals are restricted to OTP for 2FA, pending upgrades by users.
 
  
+<br>
 
 ### **3. Approach:**
 
@@ -37,6 +54,8 @@ To enhance the security of our cloud service, particularly as the integration of
 
 ##### **Out of Scope**
 - Mandatory 2FA implementation remains outside our current scope, focusing instead on voluntary adoption supported by user education and enhanced security features.
+
+<br>
 
 ### **4. Research Methodology**
 
@@ -174,9 +193,7 @@ To enhance the security of our cloud service, particularly as the integration of
         </tr>
 </table>
  
- 
-
-![image](../assets/image/SA_overview.jpeg)  
+ <br>
 
 
 ### **6. Product MVP Requirements**

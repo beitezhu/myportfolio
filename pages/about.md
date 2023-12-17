@@ -16,7 +16,7 @@ I began my career as a marketing specialist, where I handled various aspects of 
 
 My marketing and literary background allows me to understand marketing dilemmas and think from a human perspective, and professionally, I’m able to transfer business concepts into a final product. I am in interested in exploring different products and opportunies. 🌿
 
-
+![image](../assets/image/my_expertise.png)
 
 <div class="row">
 {% include about/timeline.html %}
