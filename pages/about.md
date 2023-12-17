@@ -10,7 +10,7 @@ weight: 4
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-I am a product manager and marketing professional with 7 years of experience in the tech industry. I have successfully designed and launched app and SaaS products. Expertise in Product Management, Market Survey, and Marketing Strategy (including Growth Marketing and Product Marketing) for both B2B and B2C products.
+I am a product manager and marketing professional with 7 years of experience in the tech industry. I have successfully designed and launched app and SaaS products. Expertise in Product Strategy, Project Management, Market Research, and Marketing Strategy (including Growth Marketing and Product Marketing) for both B2B and B2C products.
 
 I began my career as a marketing specialist, where I handled various aspects of marketing, including B2B to B2C marketing, digital marketing, and channel marketing. As part of my job, I frequently traveled to Southeast Asia, which sparked ideas for improving our products. This ultimately led me to transfer teams and transition into the role of a product manager.
 
