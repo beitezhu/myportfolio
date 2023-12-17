@@ -90,7 +90,7 @@ To enhance the security of our cloud service, particularly as the integration of
 
 
 
-### **5. Proposed solution**
+### **5. Proposed Solution**
 
  <table>
         <tr>
