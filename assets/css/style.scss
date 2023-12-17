@@ -1,0 +1,27 @@
+---
+---
+/* Add your custom style here */
+@import "portfolYOU";
+
+.timeline-body:after {
+    content: "";
+    width: 4px;
+    height: 100%;
+    background-color: #dddddd;
+    position: absolute;
+    left: -4px;
+    top: 0;
+}
+
+.timeline-body .timeline-item:after {
+    content: "";
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: 4px solid #cccccc;
+    background-color: #cccccc;
+    position: absolute;
+    left: -16px;
+    top: 24px;
+    z-index: 10;
+}
