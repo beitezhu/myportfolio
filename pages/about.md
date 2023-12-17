@@ -6,7 +6,7 @@ weight: 4
 ---
 
 # **About Me**
-![image](/portfolio/assets/image/beite_hiking.JPG)
+![image](/myportfolio/assets/image/beite_hiking.jpg)
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
