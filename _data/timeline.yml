@@ -1,11 +1,21 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Product Manager, Synology
+  from: Apr 2020
+  to: Jun 2023
+  description: <h5>Product Strategy</h5>
+               <ul>
+    <li>
+        <p>Identified router software pain points to create roadmap & increase router product line revenue 29% YoY (US$3.2m); Added network separation to solve user cybersecurity concerns.</p>
+    </li>
+    <li>
+        <p>Designed/launched 2FA & password-free login methods of Synology cloud security/authentication service (Synology Account, over 5m users); Increased daily Two-factor authentication (2FA) & password-free login setup rate 230% MoM;</p>
+    </li>
+    <li>
+        <p>Decreased support tickets 80%, saving tech support engineer time & preventing potential data leaks.</p>
+    </li>
+    <li>
+        <p>Designed & delivered piracy-prevention system; Prevented action from 20k pirate users in China within 1 year.</p>
+    </li>
+    </ul>
 
 - title: Software Engineer, Google, UK
   from: 2018
