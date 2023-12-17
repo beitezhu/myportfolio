@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Product Strategy
+  percentage: 100
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Product Management
+  percentage: 100
+  color: info
+
+- name: Product Marketing
+  percentage: 100
+  color: info

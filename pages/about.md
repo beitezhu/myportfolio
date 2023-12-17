@@ -2,10 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 4
 ---
 
 # **About Me**
+![image](../assets/image/beite_hiking.JPG)
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
@@ -15,10 +16,7 @@ I began my career as a marketing specialist, where I handled various aspects of 
 
 My marketing and literary background allows me to understand marketing dilemmas and think from a human perspective, and professionally, I’m able to transfer business concepts into a final product. I am in interested in exploring different products and opportunies. 🌿
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+
 
 <div class="row">
 {% include about/timeline.html %}
