@@ -2,7 +2,7 @@
 name: Backup & SaaS Product
 tools: [Storage, Backup, SaaS]
 image: ../assets/image/hb_disaster_c2.jpeg
-description: The design of Multi-Factor Authentication (MFA) and a series of product features was implemented to enhance the security of our cloud service, Synology Account, which has 5 million users. The project involved collaboration with 6 developers over a period of more than 6 months.
+description: I employed various approaches to identify the reasons why the SaaS service's retention rate was relatively low and proposed a solution that successfully increased sales. The product includes both on-premises NAS storage and public cloud storage.
 ---
  ![image](../assets/image/hyperbackup_baremetal.jpeg)   
 
@@ -17,6 +17,7 @@ description: The design of Multi-Factor Authentication (MFA) and a series of pro
 > - Team members: 1 UX designers,1 UI designers, 4 SDEs
 > - Skills: Product Strategy, Project Management,  Problem solving 
 
+
 <br>
 
 ### **1. Overview and Objectives**
@@ -29,6 +30,10 @@ Our product is a NAS (Network Attached Storage), which is an on-premise server. 
 Increase the retention rate and user experience, leading to an increase in sales revenue.
 
 <br>
+
+![image](../assets/image/HB_extensive_backup_destinations.png)
+
+
 
 ### **2. Approach:**
 ##### **Product Feature Research**
