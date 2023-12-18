@@ -23,7 +23,7 @@ description: I employed various approaches to identify the reasons why the SaaS 
 ### **1. Overview and Objectives**
 ##### **Overview:**
 
-Our product is a NAS (Network Attached Storage), which is an on-premise server. We also provide a SaaS storage service that allows customers to backup their on-premise data to the cloud. However, we have encountered a challenge: the retention rate of this service is lower than that of other SaaS services in our company. I aim to devise a solution to increase the retention rate.
+Our product is a NAS (Network Attached Storage), which is an on-premise server. We also provide [C2 Storage](https://c2.synology.com/en-global/storage/overview),a SaaS storage service, that allows customers to backup their on-premise data to the cloud. However, we have encountered a challenge: the retention rate of this service is lower than that of other SaaS services in our company. I aim to devise a solution to increase the retention rate.
 
 ##### **Objective:**
 

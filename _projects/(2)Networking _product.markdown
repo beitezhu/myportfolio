@@ -1,12 +1,11 @@
 ---
 name: Networking Product
 tools: [Networking, VLAN, Seucity]
-image: ../assets/image/SRM1.3-1.jpeg
+image: ../assets/image/DS_router_background.jpg
 description: The design of Multi-Factor Authentication (MFA) and a series of product features was implemented to enhance the security of our cloud service, Synology Account, which has 5 million users. The project involved collaboration with 6 developers over a period of more than 6 months.
 ---
- ![image](../assets/image/SRM1.3-2.jpeg)   
-
-
+ {% include elements/video.html id="UbqSUU823IQ" %}
+ 
 <br>
 
 ### **1. Overview and Objectives**
@@ -17,6 +16,7 @@ description: The design of Multi-Factor Authentication (MFA) and a series of pro
 
 To enhance the security of our cloud service, particularly as the integration of products with the Synology Account escalates.
 
+![image](../assets/image/DS_router_background.jpg)   
 
 ### **2. Problem Statement**
 
