@@ -2,7 +2,7 @@
 name: Networking Product
 tools: [Networking, VLAN, Seucity]
 image: ../assets/image/DS_router_background.jpg
-description: The design of Multi-Factor Authentication (MFA) and a series of product features was implemented to enhance the security of our cloud service, Synology Account, which has 5 million users. The project involved collaboration with 6 developers over a period of more than 6 months.
+description: Networking is one of the most important product lines at Synology. I designed the router app, along with the new software feature VLAN plus the hardware wifi 6 router fill the gap in the mid-range router market, where VLAN functionality is often lacking. This enhancement is expected to boost sales.
 ---
  {% include elements/video.html id="UbqSUU823IQ" %}
 

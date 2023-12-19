@@ -1,0 +1,16 @@
+---
+layout: post
+title:  IMDB data Analysis with Tableau
+date:   2023-11-29 18:05:55 +0300
+image:  ../assets/image/SRM1.3-1.jpeg
+tags:   Tableau
+---
+
+This dataset comprises IMDB data from 2006 to 2016, featuring an in-depth analysis of movie genres in correlation with their revenue generation. It also includes a detailed breakdown of revenue and movie releases by year, offering a comprehensive view of the industry's financial dynamics over a decade.
+
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+
+<tableau-viz id="tableauViz"       
+  src='https://public.tableau.com/views/Beitezhu_IMDB_data/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link'      
+  height='850px' width='1300px' toolbar='bottom' hide-tabs>
+</tableau-viz>

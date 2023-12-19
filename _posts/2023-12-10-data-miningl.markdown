@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  Predictive Modeling & Data Analysis
-date:   2021-06-29 18:05:55 +0300
-image:  ../assets/image/SRM1.3-1.jpeg
+date:   2023-12-10 20:20:20 +0300
 tags:   Machinelearning
 ---
 
