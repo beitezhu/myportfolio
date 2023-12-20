@@ -2,7 +2,8 @@
 name: Networking Product
 tools: [Networking, VLAN, Seucity]
 image: ../assets/image/DS_router_background.jpg
-description: Networking is one of the most important product lines at Synology. I designed the router app, along with the new software feature VLAN plus the hardware wifi 6 router fill the gap in the mid-range router market, where VLAN functionality is often lacking. This enhancement is expected to boost sales.
+description: Networking is one of the most important product lines at Synology. In response to the rapid increase in IoT devices and related cybersecurity risks, I am redesigning the app to align with current mobile-first trends and adding a VLAN feature to the new Wi-Fi router. This initiative not only aims to offer advanced security features to tech-savvy users but also seeks to fill a gap in the mid-range router market where VLAN capabilities are often missing. The combination of updated software features and the latest Wi-Fi 6 router hardware is expected to significantly boost sales.
+
 ---
  {% include elements/video.html id="UbqSUU823IQ" %}
 
