@@ -2,12 +2,23 @@
 name: Networking Product
 tools: [Networking, VLAN, Seucity]
 image: ../assets/image/DS_router_background.jpg
-description: Networking is one of the most important product lines at Synology. In response to the rapid increase in IoT devices and related cybersecurity risks, I am redesigning the app to align with current mobile-first trends and adding a VLAN feature to the new Wi-Fi router. This initiative not only aims to offer advanced security features to tech-savvy users but also seeks to fill a gap in the mid-range router market where VLAN capabilities are often missing. The combination of updated software features and the latest Wi-Fi 6 router hardware is expected to significantly boost sales.
+description: Networking is one of the most important product lines at Synology. In response to the rapid increase in IoT devices and related cybersecurity risks, I am redesigning the app to align with current mobile-first trends and adding a VLAN feature to the new Wi-Fi router. <br><br>This initiative not only aims to offer advanced security features to tech-savvy users but also seeks to fill a gap in the mid-range router market where VLAN capabilities are often missing. The combination of updated software features and the latest Wi-Fi 6 router hardware is expected to significantly boost sales.
 
 ---
  {% include elements/video.html id="UbqSUU823IQ" %}
 
 <br>
+
+# **Networking- SRM & DS router**
+##### Networking software and apllication product design
+
+> - Duration: Feb 2021 - Mar. 2022
+> - Role: Product Manager
+> - Team members: 1 UX designers,1 UI designers, 10 SDEs
+> - Skills: Product Strategy, Project Management, UX design, Market research
+
+<br>
+
 
 ### **1. Overview**
 Networking is one of the most important product lines at Synology. However, the associated app has not been updated for years, leading to a poor user experience. Additionally, there has been a significant increase in IoT devices over the past five years, reaching 13 billion in 2022. This surge has been accompanied by a corresponding rise in cybersecurity incidents related to IoT devices, often due to outdated software. These developments present new security challenges and opportunities to redesign the app and develop new features, such as VLAN, to enhance security.
