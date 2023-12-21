@@ -7,3 +7,6 @@
 
 # IntelliJ
 .idea
+
+# Generated site
+_site
