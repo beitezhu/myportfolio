@@ -10,11 +10,11 @@ weight: 4
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-I am a product manager and marketing professional with 7 years of experience in the tech industry. I have successfully designed and launched app and SaaS products. Expertise in Product Strategy, Project Management, Market Research, and Marketing Strategy (including Growth Marketing and Product Marketing) for both B2B and B2C products.
+I am a product manager and marketing professional with 7 years of experience in the tech industry. I have successfully designed and launched apps and SaaS products, specializing in Networking, Backup, and Security.
 
-I began my career as a marketing specialist, where I handled various aspects of marketing, including B2B to B2C marketing, digital marketing, and channel marketing. As part of my job, I frequently traveled to Southeast Asia, which sparked ideas for improving our products. This ultimately led me to transfer teams and transition into the role of a product manager.
+My experience has refined my skills in Product Strategy, Project Management, and Market Survey. At Synology, I led a team of over 20 engineers in developing a networking app and Web OS, where we achieved a surge in the app's App Store rating from 3 to 4.8 within just three months. Additionally, I launched a Multi-Factor Authentication (MFA) product for SaaS, significantly enhancing security for 5 million users.
 
-My marketing and literary background allows me to understand marketing dilemmas and think from a human perspective, and professionally, I’m able to transfer business concepts into a final product. I am in interested in exploring different products and opportunies. 🌿
+Furthermore, my marketing and literary background enables me to understand marketing dilemmas and think from a human perspective. Professionally, I’m able to transfer business concepts into a final product. I am in interested in exploring different products and opportunies. 🌿
 
 ![image](../assets/image/my_expertise.png)
 

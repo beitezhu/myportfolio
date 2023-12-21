@@ -2,8 +2,8 @@
 title               : Beite/Product Manager 
 description         : >-
                       Hello :wave:, I’m Beite Zhu. 
-                      <br>A product manager and marketing professional with 7 years of experience in the tech industry. I have successfully designed and launched iOS & Android apps and SaaS products. 
-                      <br>Expertise in Product Strategy, Project Management, and Market Survey.
+                      <br>I am a product manager with 7 years of experience in the tech industry. I designed and launched apps and SaaS products, specializing in Networking, Backup, and Security.
+                      <br><br>My experience has refined my skills in Product Strategy, Project Management, and Market Survey. 
 baseurl             : "/myportfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : beitezhu/beitezhu.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
