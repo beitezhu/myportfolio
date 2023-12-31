@@ -5,7 +5,7 @@ image: ../assets/image/SA_banner_overview.png
 description: The design of Multi-Factor Authentication (MFA) and a series of product features was implemented to enhance the security of our cloud service, Synology Account, which has 5 million users. <br>The project involved collaboration with 6 developers over a period of more than 6 months.
 ---
  ![image](../assets/image/SA_security.jpeg)   
-
+ 
 
 <br>
 
