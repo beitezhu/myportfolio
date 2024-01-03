@@ -4,7 +4,7 @@ title:  Utilizing Machine Learning to Predict Lung Cancer Risk
 date:   2023-12-10 20:20:20 +0300
 tags:   Machinelearning
 ---
-![image](../assets/image/ML_visual.png)  
+![image](../assets/image/Stages-of-Lung-Cancer.png)  
 I utilized data to train a machine learning model for predicting different stages of lung cancer, accompanied by visualization.
 <br/>
 <br/>
@@ -18,8 +18,6 @@ I utilized data to train a machine learning model for predicting different stage
 
 <br/>
 ##### Summary: 
-I have learned about various machine learning models, including Random Forest, Logistic Regression, and Decision Tree. Normally, during the training process, I usually split the data into a training set and a validation set. I then use the training set to test the accuracy of each model. After comparing the different models, I can identify the most suitable one. Finally, I use that model for prediction.
-
 In this project, my team members and I aim to utilize data to train a machine learning model to predict different stages of lung cancer. This involves an in-depth analysis of risk factors and symptoms associated with lung cancer, using a dataset of 26 discrete variables. These variables describe risk factors and symptoms and their impact on lung cancer, ranging in severity from highest (7) to lowest (1)
 
 The dataset encompasses a broad spectrum of attributes, including demographic information, health-related variables, lifestyle choices, and potential symptoms. These attributes are primarily classified into two categories: “Lung Cancer Risk Factors” and “Lung Cancer Symptoms.”
