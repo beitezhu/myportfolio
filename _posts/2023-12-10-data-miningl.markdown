@@ -17,7 +17,8 @@ I utilized data to train a machine learning model for predicting different stage
 
 
 <br/>
-##### Summary: 
+
+#### Summary
 In this project, my team members and I aim to utilize data to train a machine learning model to predict different stages of lung cancer. This involves an in-depth analysis of risk factors and symptoms associated with lung cancer, using a dataset of 26 discrete variables. These variables describe risk factors and symptoms and their impact on lung cancer, ranging in severity from highest (7) to lowest (1)
 
 The dataset encompasses a broad spectrum of attributes, including demographic information, health-related variables, lifestyle choices, and potential symptoms. These attributes are primarily classified into two categories: “Lung Cancer Risk Factors” and “Lung Cancer Symptoms.”
@@ -210,11 +211,18 @@ print("Classification Report:\n", report)
 print("=" * 50)
 ```
 
+<br>
 
+#### Data Insights: Lifestyle and Symptoms in Lung Cancer
 
+The data indicates that lifestyle factors are strongly associated with lung cancer. These include smoking, alcohol use, and obesity.
+
+Symptoms can also serve as indicators of different stages of lung cancer. These symptoms include chest pain, coughing up blood, wheezing, fatigue, and weight loss.
+
+In comparison to the aforementioned indicators, other factors such as dust allergies and genetic risks have a lower correlation with lung cancer. Consequently, the accuracy of predictions based on these factors is less than 76%.
 
 <br>
-##### Project Slides
+##### Please refer to the following slide for more details.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwa-ptnnxCUfU8Ua_B_izqK60omq7sCE-oZri0sUd6PWQYy-tuSBKips8XN_LA3bfiKZ3CvkM5RyUJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
