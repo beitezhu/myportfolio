@@ -1,61 +1,34 @@
 ---
 layout: page
-title: About
+title: My life
 permalink: /about/
 weight: 4
 ---
 
-# **About Me**
+# **About My Life**
 
-##### A Data-Driven, Detail-Oriented Product Manager
-![image](../assets/image/beite_hiking.jpg)
+<br>
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-I am a product manager and marketing professional with 7 years of experience in the tech industry. I have successfully designed and launched apps and SaaS products, specializing in Networking, Backup, and Security.
-
-My experience has refined my skills in **Product Strategy, Project Management, and Market Survey**. At Synology, I led a team of over 20 engineers in developing a networking app and Web OS, where we achieved a surge in the app's App Store rating from 3 to 4.8 within just three months. Additionally, I launched a Multi-Factor Authentication (MFA) product for SaaS, significantly enhancing security for 5 million users.
-
-Furthermore, my marketing and literary background enables me to understand marketing dilemmas and think from a human perspective. Professionally, I’m able to transfer business concepts into a final product. I am in interested in exploring different products and opportunies. 🌿
-<br>
-<br>
-
-### Product Strategy
-I have experience both in product strategy and project management.
-> ##### Industry Expertise: 
-> <li>Networking</li>
-> <li>Security & Privacy</li>
-> <li>Backup</li>
-
-> ##### Type of product:
-> <li>SaaS service</li>
-> <li>Applicatoin (ios & Andriod)</li>
+Growing up, I always had a deep affection for the world of books, a love that naturally led me to study Literature and History at university. Now, in a delightful twist, I find myself writing articles for various Chinese media outlets, nurturing my passion for storytelling. My career took an unexpected turn into the tech industry's marketing sector, sparking a keen interest in technology. This newfound fascination motivated me to pursue a Master's degree in Information Systems, broadening my perspectives and introducing me to new experiences.
 
 <br>
 
-### Analytic & Programming
-> ##### Languages I speak:
-> <li>Python(Pandas/NumPy)</li>
-> <li>SQL</li>
-> <li>HTML</li>
-> <li>CSS</li>
-
-> ##### Tools & Technologies: 
-> <li>Jupyter Notebook</li>
-> <li>Google Colab</li>
-> <li>Github</li>
-> <li>Excel (STAT TOOLS/Solver)</li>
-> <li>Tableau</li>
+![image](../assets/image/beite_hiking.jpg)
 
 <br>
-### Hobbies
-I absolutely love backpacking and have had the joy of exploring more than 10 countries. My adventures also extend underwater; I'm fascinated by freediving and scuba diving and have trained myself to hold my breath for up to 4 minutes. And back in Taiwan, there's my adorable cat waiting for me – the sweetest companion one could ask for.
+
+My free time is often spent exploring the world through backpacking, a hobby that has taken me to over ten countries. My adventurous spirit doesn't stop there; I'm also drawn to the underwater world of freediving and scuba diving, where I've learned to hold my breath for up to four minutes. These experiences contrast beautifully with the comfort of home in Taiwan, where my beloved cat awaits, always ready to offer companionship and warmth.
+
+<br>
 
 ![image](../assets/image/My_life.png)
 
 <br>
 
-### My experience timeline
-<div class="row">
-{% include about/timeline.html %}
-</div>
+When I'm seeking a quiet day indoors, I turn to watercolor painting. This gentle hobby brings a soothing balance to my life, allowing me to capture moments of peace and beauty on canvas.
+
+<br>
+
+![image](../assets/image/watercolor.png)
